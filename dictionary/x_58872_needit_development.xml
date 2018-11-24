@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="development" max_length="40" name="x_58872_needit_development" type="collection">
+        <element choice="3" default="yes" label="Description" mandatory="true" max_length="40" name="description" type="choice">
+            <choice/>
+        </element>
+        <element choice="3" default="yes" label="short description" max_length="40" name="short_description" type="boolean">
+            <choice>
+                <element hint="telugu" inactive_on_update="false" label="andhra" sequence="1" value="1"/>
+            </choice>
+        </element>
+    </element>
+</database>

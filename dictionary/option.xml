@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="x_58872_needit_u_choice_2" type="string">
+            <choice/>
+        </element>
+        <element label="New Floating Point Number" max_length="40" name="x_58872_needit_u_float_3" type="float"/>
+        <element label="New Date" max_length="40" name="x_58872_needit_u_glide_date_1" type="glide_date"/>
+    </element>
+</database>
